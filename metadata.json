@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Ledger",
+  "description": "WhatsApp Ledger: Your Business Memory Inside WhatsApp. Converts natural language business chats into structured ledger records using LLM-powered extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

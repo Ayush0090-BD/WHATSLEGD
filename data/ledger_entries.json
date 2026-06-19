@@ -1,0 +1,62 @@
+[
+  {
+    "id": "8f2a4bc2-8176-43bf-b586-4f7db4bcdf61",
+    "customer_name": "Raju",
+    "service_name": "AC Repair",
+    "total_amount": 700,
+    "paid_amount": 500,
+    "due_amount": 200,
+    "follow_up_date": "2026-06-26",
+    "status": "Partially Paid",
+    "created_at": "2026-06-15T10:30:00.000Z",
+    "updated_at": "2026-06-15T10:30:00.000Z"
+  },
+  {
+    "id": "bfd8956b-a19f-4318-8798-90f7727ac4df",
+    "customer_name": "Sunita",
+    "service_name": "Web Design",
+    "total_amount": 1500,
+    "paid_amount": 1500,
+    "due_amount": 0,
+    "follow_up_date": "",
+    "status": "Paid",
+    "created_at": "2026-06-16T14:15:00.000Z",
+    "updated_at": "2026-06-16T14:15:00.000Z"
+  },
+  {
+    "id": "e305ff4b-7489-49dd-9a57-01314ff362ca",
+    "customer_name": "Amit Sharma",
+    "service_name": "Plumbing Installation",
+    "total_amount": 400,
+    "paid_amount": 0,
+    "due_amount": 400,
+    "follow_up_date": "2026-06-21",
+    "status": "Unpaid",
+    "created_at": "2026-06-17T09:00:00.000Z",
+    "updated_at": "2026-06-17T09:00:00.000Z"
+  },
+  {
+    "id": "fa910d65-ecc7-4e08-9df2-9b2f6efba983",
+    "customer_name": "Vikram Singh",
+    "service_name": "Car General Service",
+    "total_amount": 1200,
+    "paid_amount": 1000,
+    "due_amount": 200,
+    "follow_up_date": "2026-06-28",
+    "status": "Partially Paid",
+    "created_at": "2026-06-18T16:45:00.000Z",
+    "updated_at": "2026-06-18T16:45:00.000Z"
+  },
+  {
+    "id": "76ba18ce-fa0c-46a4-9ec4-c687e35b7190",
+    "customer_name": "Kavita Patel",
+    "service_name": "Event Catering",
+    "total_amount": 3000,
+    "paid_amount": 3000,
+    "due_amount": 0,
+    "follow_up_date": "",
+    "status": "Paid",
+    "created_at": "2026-06-19T08:20:00.000Z",
+    "updated_at": "2026-06-19T08:20:00.000Z"
+  }
+]
